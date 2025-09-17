@@ -19,6 +19,37 @@ It's working on  [Python 3.10.11]
 IF you run this file Frist of all create a vertual env and activate it then run this comund "pip install -r requirement.txt "
 after all dependency install you can run it by this comund " python agent.py console".
 
+IF YOU WANT  JARVIS [ V3.2] 
+
+       -> SOME ADVANCE FEATURE <-
+
+
+1. WHATSAPP CHAT & SENT 📤 [ HINDI / ENGLISH/   BENGALI  ]
+
+2. INSTAGRAM CHAT & 📤 [ HINDI/ ENGLISH/ BENGALI]
+
+3. SCREEN SHOOTS
+
+4. WRITE PROGRAMS [ PYTHON ONLY]✨ 
+
+5. EMAIL WRITING [ AND SENT]
+
+6. SCREEN READ
+
+7. VOLUME   & BRIGHTNESS  CONTROL [ ONLY FOR LEPTOP]
+
+8. WORKING ACCURACY UPTO 75%
+
+9. OBVIOUSLY, THE FULL VERSION WILL INCLUDE ALL THE FEATURES. [ JARVIS V3.0]
+
+
+
+
+
+
+
+
+
 
 FOR MORE INFORMATION DO FOLLOW MY INSTAGRAM @pulak_61 
 
