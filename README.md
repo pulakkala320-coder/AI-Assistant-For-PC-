@@ -14,6 +14,10 @@ The architecture combines a React/Electron frontend, a Node.js backend with Live
 
 In practice, this assistant allows users to quickly fetch information, take notes, or control their PC hands-free. By integrating real-time audio streaming, intelligent intent recognition, and automation, the project delivers a futuristic, Jarvis-like experience, demonstrating how AI and system integration can create a truly smart personal assistant.
 
+It's working on  [Python 3.10.11]
+
+IF you run this file Frist of all create a vertual env and activate it then run this comund "pip install -r requirement.txt "
+after all dependency install you can run it by this comund " python agent.py console".
 
 
 FOR MORE INFORMATION DO FOLLOW MY INSTAGRAM @pulak_61 
