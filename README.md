@@ -13,3 +13,9 @@ Once the assistant has generated a response, it converts the text into speech us
 The architecture combines a React/Electron frontend, a Node.js backend with LiveKit SDK, and integrations for STT, LLM, and TTS. Security is a priority, with command whitelisting, localhost-only communication, and authentication tokens ensuring safe operation.
 
 In practice, this assistant allows users to quickly fetch information, take notes, or control their PC hands-free. By integrating real-time audio streaming, intelligent intent recognition, and automation, the project delivers a futuristic, Jarvis-like experience, demonstrating how AI and system integration can create a truly smart personal assistant.
+
+
+
+FOR MORE INFORMATION DO FOLLOW MY INSTAGRAM @pulak_61 
+
+
