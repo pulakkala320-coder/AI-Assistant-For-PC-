@@ -19,7 +19,9 @@ It's working on  [Python 3.10.11]
 IF you run this file Frist of all create a vertual env and activate it then run this comund "pip install -r requirement.txt "
 after all dependency install you can run it by this comund " python agent.py console".
 
-IF YOU WANT  JARVIS [ V3.2] 
+
+
+IF YOU WANT  JARVIS [ V4.2] 
 
        -> SOME ADVANCE FEATURE <-
 
@@ -43,13 +45,15 @@ IF YOU WANT  JARVIS [ V3.2]
 9. OBVIOUSLY, THE FULL VERSION WILL INCLUDE ALL THE FEATURES. [ JARVIS V3.0]
 
 
+10. MOST ADVANCED FEATURE  [ VIDEO RECOGNISE ] 
 
+11. APP INSTALL / UNINSTALL [ ONLY FROM MICROSOFT STORE] 
 
+.................
+........
 
-
-
-
-
+IF YOU WANT TO BUY JARVIS V 4.2 CONTECT ME 
+👇🏻
 
 FOR MORE INFORMATION DO FOLLOW MY INSTAGRAM @pulak_61 
 
